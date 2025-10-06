@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0823864"
-     inkscape:cx="-136.73491"
-     inkscape:cy="511.37008"
+     inkscape:cx="99.317582"
+     inkscape:cy="437.4593"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
@@ -73,7 +73,7 @@
        y="45.72995"
        id="text2"><tspan
          sodipodi:role="line"
-         id="tspan2"></tspan></text>
+         id="tspan2" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.2431px;font-family:'Isonorm 3098';-inkscape-font-specification:'Isonorm 3098, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.23543"
@@ -87,7 +87,7 @@
          sodipodi:role="line"
          x="399.04391"
          y="298.08792"
-         id="tspan5"></tspan><tspan
+         id="tspan5" /><tspan
          sodipodi:role="line"
          x="399.04391"
          y="368.39178"
@@ -95,7 +95,7 @@
          sodipodi:role="line"
          x="399.04391"
          y="438.69568"
-         id="tspan7"></tspan><tspan
+         id="tspan7" /><tspan
          sodipodi:role="line"
          x="399.04391"
          y="508.99954"
@@ -111,7 +111,7 @@
        y="280.8609"
        id="text4"><tspan
          sodipodi:role="line"
-         id="tspan4"></tspan></text>
+         id="tspan4" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.2431px;font-family:'Isonorm 3098';-inkscape-font-specification:'Isonorm 3098, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000"
@@ -119,19 +119,19 @@
        y="894.32025"
        id="text9"><tspan
          sodipodi:role="line"
-         id="tspan9"
          x="753.87659"
          y="894.32025"
+         id="tspan10"
          style="text-align:end;text-anchor:end">Tymon Lazowy</tspan><tspan
          sodipodi:role="line"
          x="753.87659"
          y="964.62415"
-         id="tspan10"
-         style="text-align:end;text-anchor:end">Grupa 3</tspan><tspan
+         style="text-align:end;text-anchor:end"
+         id="tspan11">169570</tspan><tspan
          sodipodi:role="line"
          x="753.87659"
          y="1034.928"
          style="text-align:end;text-anchor:end"
-         id="tspan11">169570</tspan></text>
+         id="tspan14">2025</tspan></text>
   </g>
 </svg>
